@@ -5,4 +5,10 @@ Salam Chetori?
 Data Overview:
 764 observations with 9 attributes
 
-cleaning steps: 
+
+
+
+Parvin
+Sara added this new line :)
+
+
