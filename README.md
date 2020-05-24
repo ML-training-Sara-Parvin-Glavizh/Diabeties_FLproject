@@ -5,8 +5,9 @@ Salam Chetori?
 Data Overview:
 764 observations with 9 attributes
 
-
+man amadeh am vay vay
 Parvin
 Sara added this new line :)
 chera? akhe chera?
+
 
