@@ -6,6 +6,10 @@ Data Overview:
 764 observations with 9 attributes
 
 
+man amadeh am vay vay
+=======
+
+
 
 
 Parvin
@@ -14,7 +18,10 @@ chera? akhe chera?
 
 
 
+=======
+
 KOSHTI MANO EZ FILE!!!
 
 Har doye maro koshti...dar branch master
+
 
